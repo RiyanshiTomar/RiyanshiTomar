@@ -23,28 +23,26 @@ Interests: Data Science, Full-Stack Development, Technical Blogging
 ---
 
 🌟 Featured Projects
-IEEE-754 Conversion
+🔶IEEE-754 Conversion
 
 A converter made by me using C programming language for real number data types to convert into their binary one.
 
 
-Kisan Seva
+🔶Kisan Seva
 
 A platform empowering farmers with:
 
 Real-time crop information
 
-Market prices and weather updates
-
 Resources for sustainable farming practices
 
 
-TIC-TAC-TOE Game
+🔶TIC-TAC-TOE Game
 
 Made by me using C programming language
 
 
-The Tech Student
+🔶The Tech Student
 
 A YouTube channel where I share my tech journey and offer insights into PW IOI student life, coding tutorials, and more!
 
