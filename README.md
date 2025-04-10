@@ -49,7 +49,6 @@ When I’m not immersed in code, you’ll find me meditating 🧘‍♀️, drea
 🔶 **IEEE-754 Converter** – Convert real number data to binary (C)  
 🔶 **Kisan Seva** – Helping farmers with real-time crop info & resources  
 🔶 **TIC-TAC-TOE Game** – Classic game built in C  
-🔶 **The Tech Student – YouTube** – Tech tutorials, PW IOI student life & more!
 
 ---
 
