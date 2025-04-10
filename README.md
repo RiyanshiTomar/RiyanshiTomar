@@ -83,9 +83,6 @@ When I’m not immersed in code, you’ll find me meditating 🧘‍♀️, drea
 ---
 
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/RiyanshiTomar/RiyanshiTomar/output/github-contribution-grid-snake.svg" alt="snake gif" width="100%" />
-</p>
 
 > _“Stay curious. Stay coding. Stay kind.”_  
 > — **Riyanshi Tomar** 💜
