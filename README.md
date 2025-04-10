@@ -1,84 +1,90 @@
-# Hello Innovators!
+<h1 align="center">Hey Innovators! 👩‍💻 I'm <span style="color:#FF69B4;">Riyanshi Tomar</span></h1>
+<h3 align="center">🌈 Tech Enthusiast | Data Science @ IIT Madras | CS @ PW IOI Bangalore</h3>
 
-## I am Riyanshi Tomar 👩‍💻
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Passionate+Learner;Full-Stack+Explorer;Loves+to+Code+and+Create!&center=true&width=500&height=45">
+</p>
 
-### Tech Enthusiast | Data Science BS @ IIT Madras | CS @ PW IOI Bangalore
+---
 
-Welcome to my GitHub profile! I am Riyanshi Tomar, a passionate learner and developer exploring the vast world of technology. I love solving problems, creating impactful projects, and sharing my knowledge.When I'm not coding, I enjoy meditating to maintain a balanced mind and working on projects that challenge my skills.
+## 🌟 About Me
 
+Welcome to my GitHub profile!  
+I'm **Riyanshi Tomar**, a developer on a mission to learn, build, and innovate. Whether it’s coding cool stuff, analyzing data, or creating meaningful content, I bring 💯 energy into everything I do.
+
+When I’m not immersed in code, you’ll find me meditating 🧘‍♀️, dreaming up new ideas, or vibing with tech communities.
+
+---
+
+## 🧰 Tech Stack
+
+**Languages & Markup:**  
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python&logoColor=yellow)  
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java&logoColor=orange)  
+![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c&logoColor=white)  
+![HTML](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5&logoColor=orange)  
+![CSS](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3&logoColor=blue)
+
+**Tools & IDEs:**  
+![VS Code](https://img.shields.io/badge/-VSCode-333333?style=flat&logo=visualstudiocode&logoColor=007ACC)  
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github&logoColor=white)  
+![Jupyter](https://img.shields.io/badge/-Jupyter-333333?style=flat&logo=jupyter&logoColor=orange)
+
+**Interests:**  
+`💻 Data Science` `🌐 Full-Stack Dev` `📝 Technical Blogging`
+
+---
+
+## 🔥 Coding Profiles
+
+- 💡 **LeetCode:** [Riyanshi-Tomar](https://leetcode.com/u/Riyanshi-Tomar/)   
+- 📘 **Codeforces:** [Riyanshi-Tomar](https://codeforces.com/profile/Riyanshi-Tomar)  
+- 🧮 **Hackerrank:** [@Riyanshi_Tomar](https://www.hackerrank.com/profile/Riyanshi_Tomar)  
 
 
 ---
 
-🛠 Technologies and Tools
+## ✨ Featured Projects
 
-Languages: Python, Java, C, HTML/CSS
-
-Tools & Platforms: GitHub, Visual Studio Code, Jupyter Notebook
-
-Interests: Data Science, Full-Stack Development, Technical Blogging
-
-
+🔶 **IEEE-754 Converter** – Convert real number data to binary (C)  
+🔶 **Kisan Seva** – Helping farmers with real-time crop info & resources  
+🔶 **TIC-TAC-TOE Game** – Classic game built in C  
+🔶 **The Tech Student – YouTube** – Tech tutorials, PW IOI student life & more!
 
 ---
 
-🌟 Featured Projects
-🔶IEEE-754 Conversion
+## 📊 GitHub Stats & Activity
 
-A converter made by me using C programming language for real number data types to convert into their binary one.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RiyanshiTomar&show_icons=true&theme=radical" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RiyanshiTomar&layout=compact&theme=radical" height="150"/>
+</p>
 
-
-🔶Kisan Seva
-
-A platform empowering farmers with:
-
-Real-time crop information
-
-Resources for sustainable farming practices
-
-
-🔶TIC-TAC-TOE Game
-
-Made by me using C programming language
-
-
-🔶The Tech Student
-
-A YouTube channel where I share my tech journey and offer insights into PW IOI student life, coding tutorials, and more!
-
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RiyanshiTomar&theme=radical" />
+</p>
 
 ---
 
-📈 Stats
+## 💌 Let's Connect
 
-
-
-
-
----
-
-📫 Let's Connect!
-
-LinkedIn: Riyanshi Tomar
-
-Email: r0500482@gmail.com
-
-Portfolio: [https://github.com/RiyanshiTomar/github-portfolio/blob/master/Portfolionew.html]
-
-
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/)](https://www.linkedin.com/in/riyanshi-tomar-808ab7318/)  
+📧 Email: [r0500482@gmail.com](mailto:r0500482@gmail.com)  
+🌐 Portfolio: [Click Here](https://github.com/RiyanshiTomar/github-portfolio/blob/master/Portfolionew.html)
 
 ---
 
-🔥 Fun Facts About Me
+## 💡 Fun Facts About Me
 
-I believe in meditation to boost creativity and focus.
-
-My inspiration: My mother and father.
-
-I am always on the lookout for technical internships to learn and grow.
-
-
+- 🧘‍♀️ Meditation is my mental gym  
+- 👨‍👩‍👧 Parents = Ultimate inspiration  
+- 🚀 Seeking internships & new learning adventures!
 
 ---
 
+<p align="center">
+  <img src="https://github.com/RiyanshiTomar/RiyanshiTomar/blob/output/github-contribution-grid-snake.svg" alt="snake gif" />
+</p>
 
+> _“Stay curious. Stay coding. Stay kind.”_  
+> — **Riyanshi Tomar** 💜
