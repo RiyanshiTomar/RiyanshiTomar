@@ -83,5 +83,5 @@ When I’m not immersed in code, you’ll find me meditating 🧘‍♀️, drea
 
 
 
-> _“Stay curious. Stay coding. Stay kind.”_  
+> _“Stay curious. Stay coding. Stay kind.”_ 
 > — **Riyanshi Tomar** 💜
