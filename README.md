@@ -37,9 +37,9 @@ When I’m not immersed in code, you’ll find me meditating 🧘‍♀️, drea
 
 ## 🔥 Coding Profiles
 
-- 💡 **LeetCode:** [Riyanshi-Tomar](https://leetcode.com/u/Riyanshi-Tomar/)   
-- 📘 **Codeforces:** [Riyanshi-Tomar](https://codeforces.com/profile/Riyanshi-Tomar)  
-- 🧮 **Hackerrank:** [@Riyanshi_Tomar](https://www.hackerrank.com/profile/Riyanshi_Tomar)  
+- 💡 **LeetCode:** [Riyanshi-Tomar](https://leetcode.com/u/Riyanshi-Toma)   
+- 📘 **Codeforces:** [Riyanshi-Tomar](https://codeforces.com/profile/Riyanshi-Toma)  
+- 🧮 **Hackerrank:** [@Riyanshi_Tomar](https://www.hackerrank.com/profile/Riyanshi_Toma)  
 
 
 ---
