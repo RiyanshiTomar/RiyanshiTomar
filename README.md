@@ -80,6 +80,7 @@ When I’m not immersed in code, you’ll find me meditating 🧘‍♀️, drea
 - 🚀 Seeking internships & new learning adventures!
 
 ---
+[![Riyanshi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RiyanshiTomar&bg_color=050505&color=11e83c&line=3fff0a&point=6fff5c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
