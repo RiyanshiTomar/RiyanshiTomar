@@ -19,7 +19,7 @@ When I’m not immersed in code, you’ll find me meditating 🧘‍♀️, drea
 ## 🧰 Tech Stack
 
 **Languages & Markup:**  
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python&logoColor=yellow)  
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python&logoColor=yellow) 
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java&logoColor=orange)  
 ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c&logoColor=white)  
 ![HTML](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5&logoColor=orange)  
