@@ -65,7 +65,7 @@ When I’m not immersed in code, you’ll find me meditating 🧘‍♀️, drea
 
 ---
 
-## 💌 Let's Connect
+## 💌 Let's Connect on LinkedIn
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/)](https://www.linkedin.com/in/riyanshi-tomar-808ab7318/)  
 📧 Email: [r0500482@gmail.com](mailto:r0500482@gmail.com)  
