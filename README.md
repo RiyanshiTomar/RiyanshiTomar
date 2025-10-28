@@ -82,6 +82,9 @@ When I’m not immersed in code, you’ll find me meditating 🧘‍♀️, drea
 ---
 [![Riyanshi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RiyanshiTomar&bg_color=050505&color=11e83c&line=3fff0a&point=6fff5c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+## My Badges in Open Source:
+<img width="1828" height="812" alt="image" src="https://github.com/user-attachments/assets/91bfd1fa-7864-4a18-b69c-4b1c5c52d310" />
+
 
 
 > _“Stay curious. Stay coding. Stay kind.”_ 
