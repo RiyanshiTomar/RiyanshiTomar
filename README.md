@@ -12,7 +12,7 @@
 Welcome to my GitHub profile!  
 I'm **Riyanshi Tomar**, a developer on a mission to learn, build, and innovate. Whether it’s coding cool stuff, analyzing data, or creating meaningful content, I bring 💯 energy into everything I do.
 
-When I’m not immersed in code, you’ll find me meditating 🧘‍♀️, dreaming up new ideas, or vibing with tech communities.
+When I’m not immersed in code, you’ll find me dreaming up new ideas, or vibing with tech communities.
 
 ---
 
@@ -75,7 +75,7 @@ When I’m not immersed in code, you’ll find me meditating 🧘‍♀️, drea
 
 ## 💡 Fun Facts About Me
 
-- 🧘‍♀️ Meditation is my mental gym  
+- 🧘‍♀️ gym Lover
 - 👨‍👩‍👧 Parents = Ultimate inspiration  
 - 🚀 Seeking internships & new learning adventures!
 
