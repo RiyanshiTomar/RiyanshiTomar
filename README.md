@@ -84,6 +84,8 @@ When I’m not immersed in code, you’ll find me dreaming up new ideas, or vibi
 
 ## My Badges in Open Source:
 <img width="1828" height="812" alt="image" src="https://github.com/user-attachments/assets/91bfd1fa-7864-4a18-b69c-4b1c5c52d310" />
+<img width="1430" height="667" alt="image" src="https://github.com/user-attachments/assets/2712384c-25e8-473d-81af-6b32ba8115a8" />
+
 
 
 
