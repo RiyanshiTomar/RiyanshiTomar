@@ -68,7 +68,7 @@ When I’m not immersed in code, you’ll find me dreaming up new ideas, or vibi
 ## 💌 Let's Connect on LinkedIn
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/)](https://www.linkedin.com/in/riyanshi-tomar-808ab7318/)  
-📧 Email: [r0500482@gmail.com](mailto:r0500482@gmail.com)  
+📧 Email: [r0500482@gmail.com](mailto:riyanshitomar28@gmail.com)  
 🌐 Portfolio: [Click Here](https://github.com/RiyanshiTomar/github-portfolio/blob/master/Portfolionew.html)
 
 ---
