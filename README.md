@@ -7,7 +7,7 @@
 
 ---
 
-## 🌟 About Me
+## About Me
 
 Welcome to my GitHub profile!  
 I'm **Riyanshi Tomar**, a developer on a mission to learn, build, and innovate. Whether it’s coding cool stuff, analyzing data, or creating meaningful content, I bring 💯 energy into everything I do.
