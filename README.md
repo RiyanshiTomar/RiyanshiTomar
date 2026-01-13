@@ -1,5 +1,5 @@
 <h1 align="center">Hey Innovators! 👩‍💻 I'm <span style="color:#FF69B4;">Riyanshi Tomar</span></h1>
-<h3 align="center">🌈 Tech Enthusiast | Data Science BS Degree @ IIT Madras | CS @ PW IOI Bangalore | Open Source Contributor | MERN Stack | GenAI</h3>
+<h3 align="center"> Tech Enthusiast | Data Science BS Degree @ IIT Madras | CS @ PW IOI Bangalore | Open Source Contributor | MERN Stack | GenAI</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Passionate+Learner;Full-Stack+Explorer;Loves+to+Code+and+Create!&center=true&width=500&height=45">
