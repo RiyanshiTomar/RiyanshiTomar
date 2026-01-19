@@ -71,7 +71,6 @@ My Portfolio: https://riyanshi-portfolio-mmr5.vercel.app/
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/)](https://www.linkedin.com/in/riyanshi-tomar-808ab7318/)  
 📧 Email: [r0500482@gmail.com](mailto:riyanshitomar28@gmail.com)  
-🌐 Portfolio: [Click Here](https://github.com/RiyanshiTomar/github-portfolio/blob/master/Portfolionew.html)
 
 ---
 
