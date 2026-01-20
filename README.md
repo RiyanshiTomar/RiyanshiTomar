@@ -39,7 +39,7 @@ My Portfolio: https://riyanshi-portfolio-mmr5.vercel.app/
 
 ## 🔥 Coding Profiles
 
-- 💡 **LeetCode:** [Riyanshi-Tomar](https://leetcode.com/u/Riyanshi-Tom)   
+- 💡 **LeetCode:** [Riyanshi-Tomar](https://leetcode.com/u/Riyanshi-Tomar/)   
 - 📘 **Codeforces:** [Riyanshi-Tomar](https://codeforces.com/profile/Riyanshi-Toma)  
 - 🧮 **Hackerrank:** [@Riyanshi_Tomar](https://www.hackerrank.com/profile/Riyanshi_Toma)  
 
