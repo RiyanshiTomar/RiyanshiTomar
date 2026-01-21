@@ -50,7 +50,8 @@ My Portfolio: https://riyanshi-portfolio-mmr5.vercel.app/
 
 🔶 **IEEE-754 Converter** – Convert real number data to binary (C)  
 🔶 **Kisan Seva** – Helping farmers with real-time crop info & resources  
-🔶 **TIC-TAC-TOE Game** – Classic game built in C  
+🔶 **TIC-TAC-TOE Game** – Classic game built in C 
+🔶 **VS Code Code Review Extension** - AI Powered Code review and suggestion Extension 
 
 ---
 
