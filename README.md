@@ -15,6 +15,7 @@ I'm **Riyanshi Tomar**, a developer on a mission to learn, build, and innovate. 
 When I’m not immersed in code, you’ll find me dreaming up new ideas, or vibing with tech communities.
 
 My Portfolio: https://riyanshi-portfolio-mmr5.vercel.app/
+My Profile: https://bold.pro/my/riyanshi-tomar-260124003024
 
 ---
 
