@@ -53,6 +53,7 @@ My Profile: https://bold.pro/my/riyanshi-tomar-260124003024
 🔶 **Kisan Seva** – Helping farmers with real-time crop info & resources  
 🔶 **TIC-TAC-TOE Game** – Classic game built in C 
 🔶 **VS Code Code Review Extension** - AI Powered Code review and suggestion Extension 
+🔶 **Streak.it** - AI Powered Interview Preparation Platform
 
 ---
 
