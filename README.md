@@ -27,6 +27,7 @@ My Profile: https://bold.pro/my/riyanshi-tomar-260124003024
 ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c&logoColor=white)  
 ![HTML](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5&logoColor=orange)  
 ![CSS](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3&logoColor=blue)
+![JavaScript](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3&logoColor=blue)
 
 **Tools & IDEs:**  
 ![VS Code](https://img.shields.io/badge/-VSCode-333333?style=flat&logo=visualstudiocode&logoColor=007ACC)  
