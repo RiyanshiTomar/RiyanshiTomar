@@ -29,7 +29,6 @@ My Profile: https://bold.pro/my/riyanshi-tomar-260124003024
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
----
 ![Data Structures](https://img.shields.io/badge/Data%20Structures-1F2937?style=flat&logo=codeforces&logoColor=white)
 ![Algorithms](https://img.shields.io/badge/Algorithms-0A66C2?style=flat&logo=leetcode&logoColor=white)
 ![DSA](https://img.shields.io/badge/DSA-4B0082?style=flat&logo=thealgorithms&logoColor=white)
