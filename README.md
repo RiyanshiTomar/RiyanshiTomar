@@ -36,6 +36,14 @@ My Profile: https://bold.pro/my/riyanshi-tomar-260124003024
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 
+![Generative AI](https://img.shields.io/badge/Generative%20AI-8B5CF6?style=flat&logo=openai&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLMs-111827?style=flat&logo=openai&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-F97316?style=flat&logo=chatbot&logoColor=white)
+
+![Problem Solving](https://img.shields.io/badge/Problem%20Solving-22C55E?style=flat&logo=hackerrank&logoColor=white)
+![AI Enthusiast](https://img.shields.io/badge/AI%20Enthusiast-EC4899?style=flat&logo=artificial-intelligence&logoColor=white)
+
+
 
 
 
